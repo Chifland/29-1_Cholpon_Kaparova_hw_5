@@ -10,6 +10,6 @@ def game_play():
         elif choice == 'y':
             play_round()
 game_play()
-deactiva
+
 
 
